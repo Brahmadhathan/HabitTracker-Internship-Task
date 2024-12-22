@@ -6,14 +6,14 @@ To run this project follow the step-by-step instruction
 step1: Clone the project
 step2: Open the project folder in VsCode
 step3: Open terminal to run the server
-            i : cd HabitTrackerBackend
-           ii : npm i 
-          iii : npx prisma generate
-           iv : npm run dev
+            1 : cd HabitTrackerBackend
+            2 : npm i     
+            3 : npx prisma generate
+            4 : npm run dev
 step4: Open another terminal to run the fontend
-            i : cd HabitTrackerFrontend
-           ii : npm i 
-          iii : npm run dev
+            1 : cd HabitTrackerFrontend
+            2 : npm i 
+            3 : npm run dev
 
 step5: Click on the provided url to view your website
 
